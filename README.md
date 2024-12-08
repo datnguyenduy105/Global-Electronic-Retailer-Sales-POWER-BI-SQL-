@@ -25,7 +25,7 @@ Global Electronic Retailer operates a worldwide company, selling various electro
 ---
 
 ## Data Structure  
-![image](https://github.com/user-attachments/assets/2dff3373-ed91-4647-9b53-e018496b62d4)
+![image](https://github.com/user-attachments/assets/73a8a196-7ee7-4983-9548-a90dbc0a71a6)
   
 
 ---  
@@ -52,6 +52,8 @@ Global Electronic Retailer operates a worldwide company, selling various electro
 ## Insights  
 
 ### Sales Insights  
+![image](https://github.com/user-attachments/assets/0085e68c-bdc4-4dd4-95ca-0339ef40bd81)
+
 - **Total Revenue and Profit**:  
   - Revenue: $55.3M, with a YoY growth of 1.88%.  
   - Profit: $32.43M, showing a similar growth rate of 1.88%.  
@@ -80,9 +82,11 @@ Global Electronic Retailer operates a worldwide company, selling various electro
 ---
 
 ### Product Insights  
+![image](https://github.com/user-attachments/assets/2d58a412-ff41-4551-8c6a-e23e486912d3)
+
 - **Order Distribution by Category**:  
   - **Computers**: Account for the largest share, reflecting increased reliance on technology for work and education.  
-  - **Cell Phones**: High order numbers but lower profit margins compared to other categories like Cameras or Televisions.  
+  - **Cell Phones**: These are high-order numbers but have lower profit margins compared to other categories like Cameras or Televisions.  
   - **Entertainment Categories**: Orders for Music, Movies, and Audio highlight consumer demand for diverse entertainment options.  
 
 - **In-Store vs. Online Orders**:  
@@ -99,6 +103,8 @@ Global Electronic Retailer operates a worldwide company, selling various electro
 ---
 
 ### Customer Insights  
+![image](https://github.com/user-attachments/assets/0aeaba9d-690a-4afe-9599-5a1d7ab6a984)
+
 - **Demographics**:  
   - **Gender Distribution**: The customer base is nearly balanced, with **50.73% male** and **49.27% female** customers, showing an even market appeal across genders.  
   - **Age Group Distribution**:  
@@ -117,6 +123,8 @@ Global Electronic Retailer operates a worldwide company, selling various electro
 ---
 
 ### Store Insights  
+![image](https://github.com/user-attachments/assets/5b875da4-ca95-4080-bbd6-94a6166d1930)
+
 - **Store Age and Sales Performance**:  
   - Stores aged **10–15 years** outperform both older and newer stores, indicating a sweet spot for operational efficiency and brand establishment.  
 
