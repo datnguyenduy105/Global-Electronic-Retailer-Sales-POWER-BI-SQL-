@@ -154,4 +154,5 @@ Global Electronic Retailer operates a worldwide company, selling various electro
 
 ## Tools Used  
 - **SQL**: For data extraction, cleaning, and analysis.  
-- **Power BI**: For data visualization and insights presentation.  
+- **Power BI**: For data visualization and insights presentation.
+
