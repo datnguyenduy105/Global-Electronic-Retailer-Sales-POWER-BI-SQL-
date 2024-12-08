@@ -1,0 +1,68 @@
+store_id,country,state_name,open_date,square_meters,store_age,store_size_m2
+1,Australia,Australian Capital Territory,2008-01-01,595,16,500 - 1000
+2,Australia,Northern Territory,2008-01-12,665,16,500 - 1000
+3,Australia,South Australia,2012-01-07,2000,12,1500 - ~
+4,Australia,Tasmania,2010-01-01,2000,14,1500 - ~
+5,Australia,Victoria,2015-12-09,2000,9,1500 - ~
+6,Australia,Western Australia,2010-01-01,2000,14,1500 - ~
+7,Canada,New Brunswick,2007-05-07,1105,17,1000 - 1500
+8,Canada,Newfoundland and Labrador,2014-07-02,2105,10,1500 - ~
+9,Canada,Northwest Territories,2005-03-04,1500,19,1000 - 1500
+10,Canada,Nunavut,2015-04-04,1210,9,1000 - 1500
+11,Canada,Yukon,2009-06-03,1210,15,1000 - 1500
+12,France,Basse-Normandie,2012-06-06,350,12,0 - 500
+13,France,Corse,2013-06-07,245,11,0 - 500
+14,France,Franche-Comte,2009-12-15,350,15,0 - 500
+15,France,La Reunion,2015-01-01,400,9,0 - 500
+16,France,Limousin,2010-06-03,385,14,0 - 500
+17,France,Martinique,2007-07-08,350,17,0 - 500
+18,France,Mayotte,2012-08-08,310,12,0 - 500
+19,Germany,Berlin,2015-04-04,1295,9,1000 - 1500
+20,Germany,Brandenburg,2012-12-15,1715,12,1500 - ~
+21,Germany,Freie Hansestadt Bremen,2018-06-03,560,6,500 - 1000
+22,Germany,Freistaat Thuringen,2008-03-06,2000,16,1500 - ~
+23,Germany,Hamburg,2010-01-01,1365,14,1000 - 1500
+24,Germany,Hessen,2012-12-15,1855,12,1500 - ~
+25,Germany,Mecklenburg-Vorpommern,2010-01-01,1610,14,1500 - ~
+26,Germany,Saarland,2019-03-05,350,5,0 - 500
+27,Germany,Sachsen-Anhalt,2008-08-08,2000,16,1500 - ~
+28,Italy,Caltanissetta,2012-12-15,1200,12,1000 - 1500
+29,Italy,Enna,2008-01-01,1000,16,500 - 1000
+30,Italy,Pesaro,2008-01-12,2100,16,1500 - ~
+31,Netherlands,Drenthe,2012-01-07,1085,12,1000 - 1500
+32,Netherlands,Flevoland,2010-01-01,910,14,500 - 1000
+33,Netherlands,Friesland,2015-12-09,1540,9,1500 - ~
+34,Netherlands,Groningen,2010-01-01,1365,14,1000 - 1500
+35,Netherlands,Zeeland,2007-05-07,1225,17,1000 - 1500
+36,United Kingdom,Armagh,2014-07-02,1300,10,1000 - 1500
+37,United Kingdom,Ayrshire,2005-03-04,2100,19,1500 - ~
+38,United Kingdom,Belfast,2015-04-04,1800,9,1500 - ~
+39,United Kingdom,Blaenau Gwent,2009-06-03,2100,15,1500 - ~
+40,United Kingdom,Dungannon and South Tyrone,2012-06-06,1300,12,1000 - 1500
+41,United Kingdom,Fermanagh,2013-06-07,2100,11,1500 - ~
+42,United Kingdom,North Down,2009-12-15,1900,15,1500 - ~
+43,United States,Alaska,2015-01-01,1190,9,1000 - 1500
+44,United States,Arkansas,2010-06-03,2000,14,1500 - ~
+45,United States,Connecticut,2007-07-08,2000,17,1500 - ~
+46,United States,Delaware,2012-08-08,1015,12,1000 - 1500
+47,United States,Hawaii,2015-04-04,1120,9,1000 - 1500
+48,United States,Idaho,2012-12-15,1540,12,1500 - ~
+49,United States,Iowa,2018-06-03,2000,6,1500 - ~
+50,United States,Kansas,2008-03-06,2000,16,1500 - ~
+51,United States,Maine,2010-01-01,1295,14,1000 - 1500
+52,United States,Mississippi,2009-06-03,2000,15,1500 - ~
+53,United States,Montana,2012-06-06,1260,12,1000 - 1500
+54,United States,Nebraska,2013-06-07,2000,11,1500 - ~
+55,United States,Nevada,2009-12-15,2000,15,1500 - ~
+56,United States,New Hampshire,2015-01-01,1260,9,1000 - 1500
+57,United States,New Mexico,2010-06-03,1645,14,1500 - ~
+58,United States,North Dakota,2007-07-08,1330,17,1000 - 1500
+59,United States,Oregon,2012-08-08,2000,12,1500 - ~
+60,United States,Rhode Island,2005-04-04,1260,19,1000 - 1500
+61,United States,South Carolina,2012-12-15,2000,12,1500 - ~
+62,United States,South Dakota,2018-06-03,1120,6,1000 - 1500
+63,United States,Utah,2008-03-06,2000,16,1500 - ~
+64,United States,Washington DC,2010-01-01,1330,14,1000 - 1500
+65,United States,West Virginia,2012-01-01,1785,12,1500 - ~
+66,United States,Wyoming,2014-01-01,840,10,500 - 1000
+0,Online,Online,2010-01-01,0,14,0 - 500
